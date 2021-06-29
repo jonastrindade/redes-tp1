@@ -1,4 +1,3 @@
-server
-common.o
-client
+/bin
 /.vscode
+common.o
